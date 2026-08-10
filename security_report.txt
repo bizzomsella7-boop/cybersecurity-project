@@ -1,0 +1,13 @@
+================================
+      SECURITY ASSESSMENT
+================================
+Website: https://www.google.com
+Time: 2026-08-10 21:28:13
+Status: 200
+HTTPS: PASS
+
+Security Headers:
+[REVIEW] HSTS
+[REVIEW] CSP
+[REVIEW] X-Content-Type-Options
+[PASS] X-Frame-Options
